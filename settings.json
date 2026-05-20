@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "VII-Gsmp.aternos.me",
-    "port":17724,
+    "port": 17724,
     "version": "1.20.1",
     "try-creative": false
   },
